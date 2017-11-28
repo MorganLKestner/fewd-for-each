@@ -1,17 +1,25 @@
 .blog-wrap {
-	background: lightgrey;
+	background: #eeeeee;
 	width: 900px;
 	margin: 0 auto;
 	padding: 20px;
 	text-align: center;
 }
 
-.header {
-	background: black;
+.nav-bar {
+	background: #e68181;
 	color: white;
 	padding: 10px;
 	margin-bottom: 20px;
+}
 
+.link {
+	text-decoration: none;
+	color: #4b4949;
+}
+.link:hover {
+	background-color: #6e80ce;
+	border-radius: 5px;
 }
 
 .lorem {
